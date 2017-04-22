@@ -1,4 +1,4 @@
-jquery.dataTable
+﻿jquery.dataTable
 ------
 
 
@@ -8,3 +8,6 @@ jquery.dataTable
 
 
 ### [查看demo](http://120.24.216.26/dataTable/ "查看demo")
+
+
+### Fork from https://git.oschina.net/null_580_5283/jquery.dataTable.git
